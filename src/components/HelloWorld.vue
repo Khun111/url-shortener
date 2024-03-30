@@ -1,10 +1,12 @@
 <script setup>
+import { ref } from "vue";
 import "../css/index.css";
 
 defineProps({
   msg: String,
   name: String,
 });
+let hidden = ref(true)
 
 
 </script>
