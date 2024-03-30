@@ -1,14 +1,10 @@
 <script setup>
-import { ref, onMounted } from "vue";
 import "../css/index.css";
-import getShortened from "../server";
 
 defineProps({
   msg: String,
   name: String,
 });
-
-onMounted(() => console.log(getShortened()))
 
 
 </script>
