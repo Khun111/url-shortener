@@ -141,7 +141,7 @@
     .card-1, .card-2, .card-3 {
         background-color: #fff;
         width: 350px;
-        height: 200px;
+        height: 250px;
         padding: 3rem 1.5rem 0 1.5rem;
         border-radius: 0.75rem;
     }
@@ -172,6 +172,9 @@
     }
     .options {
         margin-top: 1rem;
+    }
+    .icon-div {
+        gap: 0.5rem;
     }
 @media screen and (max-width: 768px) {
     .flex-center {
@@ -250,7 +253,7 @@
         width: 85%;
     }
     .first-hero-child button {
-        margin-bottom: 3rem;
+        margin-bottom: 4.5rem;
     }
     .card .line {
         all: unset;
@@ -278,7 +281,6 @@
     }
     .show{
         display: block;
-        width: 100%;
         margin: 2rem auto;
         text-align: center;
         background-color: hsl(257, 27%, 26%);

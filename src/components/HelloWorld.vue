@@ -147,7 +147,7 @@ let hidden = ref(true)
       <text>Challenge by </text>
       <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
         >Frontend Mentor</a
-      >. <text>Coded by</text> <a href="#">Your Name Here</a>.
+      >. <text>Coded by</text> <a href="https://github.com/Khun111">Oluwatobi</a>.
     </div>
      </footer>
      
